@@ -37,7 +37,7 @@ que la vraie proportion est incluse dans l’intervalle de confiance avec une pr
 couverture égale ou supérieure au niveau nominal. Cependant, cette méthode peut donner
 des intervalles de confiance plus larges que les autres méthodes.
 
-
+                                          A retenir:
 Il est important de noter que le choix de la méthode d’intervalle de confiance dépend de la
 situation particulière et des objectifs de l’analyse. Nous verrons ainsi que le choix de la taille de
 l’échantillon à un impact sur les résultats, plus la taille de l’échantillon est grande plus l’inter-
