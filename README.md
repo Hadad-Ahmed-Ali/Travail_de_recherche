@@ -1,4 +1,7 @@
-                                        Résumé
+Ce travail de recherche est réalisé par moi-même et ma collègue Siham Mchita sous l'encadrement de Mr. Baba THIAM . Donc tous ce qui est fait est le fruit de nos efforts.
+
+
+                                         Résumé
 Les intervalles de confiance pour les proportions sont couramment utilisés dans de nombreux
 domaines, tels que la santé publique, la recherche marketing, la sociologie et la politique, pour
 évaluer les taux de réussite, les préférences des consommateurs, les opinions publiques et les
