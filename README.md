@@ -38,8 +38,8 @@ couverture égale ou supérieure au niveau nominal. Cependant, cette méthode pe
 des intervalles de confiance plus larges que les autres méthodes.
 
                                           A retenir:
-Il est important de noter que le choix de la méthode d’intervalle de confiance dépend de la
-situation particulière et des objectifs de l’analyse. Nous verrons ainsi que le choix de la taille de
-l’échantillon à un impact sur les résultats, plus la taille de l’échantillon est grande plus l’inter-
-valle de confiance est précis. Nous verrons chaque expérience simuler en choisissant deux taille
-d’échantillon n=40 et n=100 pour bien remarquer l’effet produit par la taille de l’échantillon.
+l est important de noter que le choix de la méthode d’intervalle de confiance dépend de la
+situation particulière et des objectifs de l’analyse. Nous verrons ainsi que le choix de la taille
+de l’échantillon à un impact sur les résultats, plus la taille de l’échantillon est grande plus
+l’intervalle de confiance est précis. Nous verrons la partie 2.2.7 qui éclaircie une comparaison
+simultanée des différentes méthodes avec quelques tailles d’échantillons qui varient.
